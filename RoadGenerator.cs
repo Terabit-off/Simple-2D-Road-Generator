@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RoadGenerateor : MonoBehaviour
+public class RoadGenerator : MonoBehaviour
 {
     #region public variables
     public GameObject road, turnLeftRoad, turnRightRoad;
